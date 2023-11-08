@@ -1,0 +1,52 @@
+.welcome{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.produtos{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 30px;
+}
+
+.produtos_geral{
+    margin-top: 50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#id_produtos{
+    border: solid;
+    border-radius: 2%;
+    text-align: center;
+    margin-left: 20px;
+    height: 430px;
+}
+
+#bordas_camiseta_calca{
+    border: solid;
+    border-color: blue;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#bordas_shorts_tenis{
+    border: solid;
+    border-color: blue;
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+button{
+    color: blue;
+    width: 100px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    border: solid;
+    border-color: black;
+    border-radius: 10%;
+}
+
