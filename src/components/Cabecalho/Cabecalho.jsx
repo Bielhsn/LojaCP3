@@ -25,6 +25,9 @@ export default function Cabecalho() {
             <p>
               <Link href="/login">LOGIN</Link>
             </p>
+            <p>
+              <Link href="/usuarios/users">USUARIOS</Link>
+            </p>
           </nav>
         </div>
       </header>
